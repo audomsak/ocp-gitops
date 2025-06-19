@@ -8,5 +8,5 @@ metadata:
   namespace: demo
 spec:
   containers:
-  - image: docker.io/audomsak/node-web:1.0
+  - image: docker.io/audomsak/spring-petclinic:openjdk-11.0.24-ubi8
     name: pod
